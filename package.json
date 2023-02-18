@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Test driven development(TDD) practice using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaToGo1/testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaToGo1/testing-practice/issues"
+  },
+  "homepage": "https://github.com/SaToGo1/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
