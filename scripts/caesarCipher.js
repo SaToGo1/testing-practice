@@ -5,7 +5,6 @@ const caesarCipher = (string) => {
     let str = string;
 
     str = str.match(regTotal);
-    console.log(str);
 
     let test = '';
     str.forEach(x => {
