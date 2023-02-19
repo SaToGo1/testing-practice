@@ -5,7 +5,7 @@ it('Caesar Cipher: every letter', () => {
 })
 
 it('Caesar Cipher: Sentence', () => {
-    expect(CaesarCipher('abcdefghijklmnopqrstuvwxyz')).toBe('bcdefghijklmnopqrstuvwxyza')
+    expect(CaesarCipher('defend the east wall of the castle')).toBe('efgfoe uif fbtu xbmm pg uif dbtumf')
 })
 
 it('Punctuation', () => {
